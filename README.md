@@ -10,6 +10,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:f7b2ff,100:e6a8ff&section=footer" />
 
-![](https://visitcount.itsvg.in/api?id=anefha&icon=0&color=f7b2ff)
+![](https://views-counter.vercel.app/badge?pageId=anefha%2Fanefha&leftColor=f7b2ff&rightColor=f7b2ff&label=Visitors&style=flat-square)
 
 </div>
